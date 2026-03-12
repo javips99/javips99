@@ -24,7 +24,7 @@
 
 ### 🚀 Mis Proyectos Destacados
 
-*   🥗 **NutriBot AI:** Planificador de dietas con inteligencia artificial.
+*   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.
 *   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon.
 
 ---
@@ -50,4 +50,3 @@
     <img src="https://img.shields.io/badge/✉️_Contactar_por_Email-0066FF?style=for-the-badge" alt="Contactar por Email" />
   </a>
 </p>
-

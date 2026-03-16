@@ -4,12 +4,6 @@
   </h1>
   <p>
     <em>"Estudiante de Desarrollo de Aplicaciones Web. Enfocado en aprender las últimas tecnologías y crear proyectos prácticos con IA y Frontend."</em>
-  </p>
-  <p>
-    <a href="https://javips99.github.io/Juego-piedra-papel-tijera/" target="_blank">
-      <img src="https://img.shields.io/badge/🎮_Jugar_Piedra_Papel_Tijera-8A2BE2?style=for-the-badge" alt="Jugar PPT">
-    </a>
-  </p>
 </div>
 
 ---

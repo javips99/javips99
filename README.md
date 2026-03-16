@@ -26,6 +26,7 @@
 
 *   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.
 *   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon.
+*   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna.
 
 ---
 

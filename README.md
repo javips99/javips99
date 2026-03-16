@@ -5,6 +5,11 @@
   <p>
     <em>"Estudiante de Desarrollo de Aplicaciones Web. Enfocado en aprender las últimas tecnologías y crear proyectos prácticos con IA y Frontend."</em>
   </p>
+  <p>
+    <a href="https://javips99.github.io/Juego-piedra-papel-tijera/" target="_blank">
+      <img src="https://img.shields.io/badge/🎮_Jugar_Piedra_Papel_Tijera-8A2BE2?style=for-the-badge" alt="Jugar PPT">
+    </a>
+  </p>
 </div>
 
 ---
@@ -26,7 +31,7 @@
 
 *   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.
 *   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon.
-*   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna.
+*   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna.
 
 ---
 

@@ -33,25 +33,6 @@
 
 ---
 
-## Cómo hacerlo
-
-1. Haz clic en el **lápiz** (arriba a la derecha del README)
-2. Busca la sección `🚀 Mis Proyectos Destacados`
-3. Añade la línea debajo de Euro-Freetours (o donde prefieras)
-4. Clic en **"Commit changes"**
-
----
-
-Quedaría así:
-```
-🚀 Mis Proyectos Destacados
-
-- 🍊 NutriBot AI: Planificador de dietas con inteligencia artificial.
-- 🏟️ Estadio Pokémon: Juego interactivo de batallas Pokémon.
-- ✂️ Piedra, Papel o Tijeras: Juego clásico interactivo con interfaz web moderna.
-- 🌍 Euro-Freetours: Página web de tours por Europa con reservas y demo en vivo.
-- 💰 Gestor de Gastos: Aplicación full-stack para gestionar finanzas personales con gráficos interactivos.
----
 
 ### 📈 Mis Estadísticas en GitHub
 

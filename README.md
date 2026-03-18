@@ -4,6 +4,7 @@
   </h1>
   <p>
     <em>"Estudiante de Desarrollo de Aplicaciones Web. Enfocado en aprender las últimas tecnologías y crear proyectos prácticos con IA y Frontend."</em>
+  </p>
 </div>
 
 ---
@@ -29,10 +30,8 @@
 *   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon. **[🔗 Ver demo](https://javips99.github.io/Juego-Pokemon/)**
 *   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna. **[🔗 Ver demo](https://javips99.github.io/Juego-piedra-papel-tijera/)**
 *   🌍 **[Euro-Freetours](https://github.com/javips99/EuroFreetours):** Página web de tours por Europa con reservas y demo en vivo. **[🔗 Ver demo](https://javips99.github.io/EuroFreetours/)**
-```
 
 ---
-
 
 ### 📈 Mis Estadísticas en GitHub
 

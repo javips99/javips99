@@ -23,8 +23,6 @@
 
 ### 🚀 Mis Proyectos Destacados
 
-### 🚀 Mis Proyectos Destacados
-
 *   🌐 **[Mi Portfolio](https://github.com/javips99/Mi-porfolio):** Mi página personal con todos mis proyectos y habilidades. **[🔗 Ver demo](https://javips99.github.io/Mi-porfolio/)**
 *   💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos.
 *   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.

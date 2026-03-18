@@ -25,7 +25,7 @@
 ### 🚀 Mis Proyectos Destacados
 
 *   🌐 **[Mi Portfolio](https://github.com/javips99/Mi-porfolio):** Mi página personal con todos mis proyectos y habilidades. **[🔗 Ver demo](https://javips99.github.io/Mi-porfolio/)**
-*   💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos.
+*   💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos. **[🔗 Ver demo](https://gestor-de-gastos-x40q.onrender.com)**
 *   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.
 *   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon. **[🔗 Ver demo](https://javips99.github.io/Juego-Pokemon/)**
 *   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna. **[🔗 Ver demo](https://javips99.github.io/Juego-piedra-papel-tijera/)**

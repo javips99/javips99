@@ -23,11 +23,36 @@
 
 ### 🚀 Mis Proyectos Destacados
 
-*   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.
-*   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon.
-*   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna.
-*   🌍 **[Euro-Freetours](https://github.com/javips99/EuroFreetours):** Página web de tours por Europa con reservas y demo en vivo. **[🔗 Ver demo](https://javips99.github.io/EuroFreetours/)**
+### 🚀 Mis Proyectos Destacados
 
+*   🌐 **[Mi Portfolio](https://github.com/javips99/Mi-porfolio):** Mi página personal con todos mis proyectos y habilidades. **[🔗 Ver demo](https://javips99.github.io/Mi-porfolio/)**
+*   💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos.
+*   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.
+*   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon. **[🔗 Ver demo](https://javips99.github.io/Juego-Pokemon/)**
+*   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna. **[🔗 Ver demo](https://javips99.github.io/Juego-piedra-papel-tijera/)**
+*   🌍 **[Euro-Freetours](https://github.com/javips99/EuroFreetours):** Página web de tours por Europa con reservas y demo en vivo. **[🔗 Ver demo](https://javips99.github.io/EuroFreetours/)**
+```
+
+---
+
+## Cómo hacerlo
+
+1. Haz clic en el **lápiz** (arriba a la derecha del README)
+2. Busca la sección `🚀 Mis Proyectos Destacados`
+3. Añade la línea debajo de Euro-Freetours (o donde prefieras)
+4. Clic en **"Commit changes"**
+
+---
+
+Quedaría así:
+```
+🚀 Mis Proyectos Destacados
+
+- 🍊 NutriBot AI: Planificador de dietas con inteligencia artificial.
+- 🏟️ Estadio Pokémon: Juego interactivo de batallas Pokémon.
+- ✂️ Piedra, Papel o Tijeras: Juego clásico interactivo con interfaz web moderna.
+- 🌍 Euro-Freetours: Página web de tours por Europa con reservas y demo en vivo.
+- 💰 Gestor de Gastos: Aplicación full-stack para gestionar finanzas personales con gráficos interactivos.
 ---
 
 ### 📈 Mis Estadísticas en GitHub

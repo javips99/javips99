@@ -28,7 +28,7 @@
 *   💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos. **[🔗 Ver demo](https://gestor-de-gastos-x40q.onrender.com)**
 *   🧮 **[Calculadora](https://github.com/javips99/Calculadora):** Calculadora con operaciones básicas desarrollada con HTML, CSS y JavaScript vanilla. **[🔗 Ver demo](https://javips99.github.io/Calculadora/)**
 *   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.
-*   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon. **[🔗 Ver demo](https://javips99.github.io/Juego-Pokemon/)**
+*   🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon con integración de PokeAPI. Elige entre los 151 Pokémon originales con datos en tiempo real. **[🔗 Ver demo](https://javips99.github.io/Juego-Pokemon/)**
 *   ✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna. **[🔗 Ver demo](https://javips99.github.io/Juego-piedra-papel-tijera/)**
 *   🌍 **[Euro-Freetours](https://github.com/javips99/EuroFreetours):** Página web de tours por Europa con reservas y demo en vivo. **[🔗 Ver demo](https://javips99.github.io/EuroFreetours/)**
 

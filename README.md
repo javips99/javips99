@@ -25,6 +25,7 @@
 ### 🚀 Mis Proyectos Destacados
 
 *   🌐 **[Mi Portfolio](https://github.com/javips99/Mi-porfolio):** Mi página personal con todos mis proyectos y habilidades. **[🔗 Ver demo](https://javips99.github.io/Mi-porfolio/)**
+*   ⛽ **[GasoApp](https://github.com/javips99/Gasoapp):** App web para consultar precios de gasolineras cercanas en tiempo real con mapa interactivo. **[🔗 Ver demo](https://javips99.github.io/Gasoapp/)**
 *   💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos. **[🔗 Ver demo](https://gestor-de-gastos-x40q.onrender.com)**
 *   🧮 **[Calculadora](https://github.com/javips99/Calculadora):** Calculadora con operaciones básicas desarrollada con HTML, CSS y JavaScript vanilla. **[🔗 Ver demo](https://javips99.github.io/Calculadora/)**
 *   🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial.

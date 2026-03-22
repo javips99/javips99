@@ -24,14 +24,22 @@
 
 ### 🚀 Mis Proyectos Destacados
 
-🌐 **[Mi Portfolio](https://github.com/javips99/Mi-porfolio):** Mi página personal con todos mis proyectos y habilidades. **[🔗 Ver demo](https://javips99.github.io/Mi-porfolio/)** <br>
-⛽ **[GasoApp](https://github.com/javips99/Gasoapp):** App web para consultar precios de gasolineras cercanas en tiempo real con mapa interactivo. **[🔗 Ver demo](https://javips99.github.io/Gasoapp/)** <br>
-💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos. **[🔗 Ver demo](https://gestor-de-gastos-x40q.onrender.com)** <br>
-⚽ **[RFEF Live](https://github.com/javips99/RFEF-live):** Dashboard en tiempo real de Primera y Segunda Federación española. Clasificaciones, resultados y marcadores en directo con arquitectura híbrida Node.js + APIs externas. **[🔗 Ver demo](https://rfef-live.onrender.com)** <br>
-🌍 **[Euro-Freetours](https://github.com/javips99/EuroFreetours):** Página web de tours por Europa con reservas y demo en vivo. **[🔗 Ver demo](https://javips99.github.io/EuroFreetours/)** <br>
-🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial. **[🔗 Ver demo](https://javips99.github.io/asistente-nutricional-IA/)** <br>
-🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon. **[🔗 Ver demo](https://javips99.github.io/Juego-Pokemon/)** <br>
-✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna. **[🔗 Ver demo](https://javips99.github.io/Juego-piedra-papel-tijera/)** <br>
+🌐 **[Mi Portfolio](https://github.com/javips99/Mi-porfolio):** Mi página personal con todos mis proyectos y habilidades. **[🔗 Ver demo](https://javips99.github.io/Mi-porfolio/)**
+
+⛽ **[GasoApp](https://github.com/javips99/Gasoapp):** App web para consultar precios de gasolineras cercanas en tiempo real con mapa interactivo. **[🔗 Ver demo](https://javips99.github.io/Gasoapp/)**
+
+💰 **[Gestor de Gastos](https://github.com/javips99/Gestor-de-gastos):** Aplicación full-stack para gestionar finanzas personales con gráficos interactivos. **[🔗 Ver demo](https://gestor-de-gastos-x40q.onrender.com)**
+
+⚽ **[RFEF Live](https://github.com/javips99/RFEF-live):** Dashboard en tiempo real de Primera y Segunda Federación española. Clasificaciones, resultados y marcadores en directo con arquitectura híbrida Node.js + APIs externas. **[🔗 Ver demo](https://rfef-live.onrender.com)**
+
+🌍 **[Euro-Freetours](https://github.com/javips99/EuroFreetours):** Página web de tours por Europa con reservas y demo en vivo. **[🔗 Ver demo](https://javips99.github.io/EuroFreetours/)**
+
+🥗 **[NutriBot AI](https://github.com/javips99/asistente-nutricional-IA):** Planificador de dietas con inteligencia artificial. **[🔗 Ver demo](https://javips99.github.io/asistente-nutricional-IA/)**
+
+🎮 **[Estadio Pokémon](https://github.com/javips99/Juego-Pokemon):** Juego interactivo de batallas Pokémon. **[🔗 Ver demo](https://javips99.github.io/Juego-Pokemon/)**
+
+✂️ **[Piedra, Papel o Tijeras](https://github.com/javips99/Juego-piedra-papel-tijera):** Juego clásico interactivo con interfaz web moderna. **[🔗 Ver demo](https://javips99.github.io/Juego-piedra-papel-tijera/)**
+
 🧮 **[Calculadora](https://github.com/javips99/Calculadora):** Calculadora con operaciones básicas desarrollada con HTML, CSS y JavaScript vanilla. **[🔗 Ver demo](https://javips99.github.io/Calculadora/)**
 
 ---

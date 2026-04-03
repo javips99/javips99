@@ -26,7 +26,7 @@
 
 🌐 **[Mi Portfolio](https://github.com/javips99/Mi-porfolio):** Mi página personal con todos mis proyectos y habilidades. **[🔗 Ver demo](https://javips99.github.io/Mi-porfolio/)**
 
-📊 **[ClientCRM](https://github.com/javips99/ClientCRM):** Gestor de clientes web full-stack con dashboard de métricas, CRUD por AJAX, notas de actividad y estados del pipeline comercial. **[🔗 Ver demo](https://github.com/javips99/ClientCRM)**
+📊 **[ClientCRM](https://github.com/javips99/ClientCRM):** Gestor de clientes web full-stack con dashboard de métricas, CRUD por AJAX, notas de actividad y estados del pipeline comercial. **[🔗 Ver demo](https://javips99.github.io/ClientCRM/)**
 
 ⛽ **[GasoApp](https://github.com/javips99/Gasoapp):** App web para consultar precios de gasolineras cercanas en tiempo real con mapa interactivo. **[🔗 Ver demo](https://javips99.github.io/Gasoapp/)**
 
